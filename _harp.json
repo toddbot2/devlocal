@@ -1,0 +1,11 @@
+{
+  "globals": {
+    "site_title": "DevLocal",
+    "description": "Coworking for Software People",
+    "site_url": "http://devlocal.io",
+    "site_twitter": "devlocal",
+    "logo": "/images/logo.png",
+    "analytics_account": "UA-75426-13"
+  },
+  "domains": ["www.devlocal.io", "devlocal.io"]
+}
